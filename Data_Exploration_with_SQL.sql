@@ -1,4 +1,4 @@
--- Queries used for Tableau Project
+-- Queries used for Covid_19 data exploration
 	
 	
 	
